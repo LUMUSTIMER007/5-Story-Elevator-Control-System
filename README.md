@@ -31,4 +31,4 @@ This project was modeled and verified using Proteus 8 Professional.
 3. Adjust the passenger load potentiometer and trigger floor requests. The motor will smoothly execute the velocity profile while the LCD and PORTA-driven LEDs dynamically reflect the absolute system state.
 
 ### Simulation Results
-![Proteus_Model ]Schematic.png)
+![Proteus_Model ](Schematic.png)
